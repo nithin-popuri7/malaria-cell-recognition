@@ -189,15 +189,15 @@ plt.show()
 
 ### Classification Report
 
-![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/5.png?raw=true)
+![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/4.png?raw=true)
 
 ### Confusion Matrix
 
-![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/6.png?raw=true)
+![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/5.png?raw=true)
 
 ### New Sample Data Prediction
 
-![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/7.png?raw=true)
+![output](https://github.com/nithin-popuri7/malaria-cell-recognition/blob/main/6.png?raw=true)
 
 ## RESULT
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
