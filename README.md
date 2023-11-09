@@ -39,7 +39,7 @@ Our dataset comprises 27,558 cell images, evenly split between parasitized and u
 
 ## PROGRAM
 ```
-Developed By: P.Sive Naga Nithin
+Developed By: P.Siva Naga Nithin
 Register Number: 21221240037
 ```
 ### Import necessary libraries:
